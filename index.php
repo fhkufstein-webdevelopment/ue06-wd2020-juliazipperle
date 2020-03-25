@@ -53,4 +53,4 @@ else
     echo "Keinen Nutzer gefunden";
 }
 
-//Nutzer gefunden, aber falsches Passwort" ist ausgegeben worden
+//Nutzer gefunden, aber falsches Passwort" ist  ausgegeben worden
