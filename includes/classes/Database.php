@@ -13,6 +13,8 @@ class Database
 	 * Database constructor.
 	 * Once the Object is created - a database connection is established
 	 */
+
+
 	function __construct()
 	{
 		//the constructor requires, that a DB_HOST, DB_NAME, DB_USER and DB_PASS was previously defined.
