@@ -16,8 +16,8 @@ $db = new Database();
 $cryptedPassword = password_hash('testpasswort', PASSWORD_BCRYPT);
 $username="test";
 //sql statment
-$cryptedPassword = $db->escapeString($cryptedPassword);
-$username = $db->escapeString($username);
+//$cryptedPassword = $db->escapeString($cryptedPassword);
+//$username = $db->escapeString($username);
 
 
 
