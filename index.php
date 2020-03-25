@@ -2,9 +2,9 @@
 
 require_once('includes/classes/Database.php');
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'testdatabase');
-define('DB_USER', 'testuser');
-define('DB_PASS', 'testpass');
+define('DB_NAME', 'uebung06');
+define('DB_USER', 'Juliaa');
+define('DB_PASS', '123456789');
 $db = new Database();
 // die Datenbank anlegen hat nicht funktioniert 404 Page not found
 /*
